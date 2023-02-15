@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="客戶">
+      <EntityTypeMapping TypeName="Model.客戶">
+        <MappingFragment StoreEntitySet="客戶">
+          <ScalarProperty Name="客戶編號" ColumnName="客戶編號" />
+          <ScalarProperty Name="公司名稱" ColumnName="公司名稱" />
+          <ScalarProperty Name="地址" ColumnName="地址" />
+          <ScalarProperty Name="連絡電話" ColumnName="連絡電話" />
+          <ScalarProperty Name="密碼" ColumnName="密碼" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="訂貨主檔">
+      <EntityTypeMapping TypeName="Model.訂貨主檔">
+        <MappingFragment StoreEntitySet="訂貨主檔">
+          <ScalarProperty Name="訂單編號" ColumnName="訂單編號" />
+          <ScalarProperty Name="客戶編號" ColumnName="客戶編號" />
+          <ScalarProperty Name="訂單日期" ColumnName="訂單日期" />
+          <ScalarProperty Name="商品總額" ColumnName="商品總額" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="訂單明細">
+      <EntityTypeMapping TypeName="Model.訂單明細">
+        <MappingFragment StoreEntitySet="訂單明細">
+          <ScalarProperty Name="訂單編號" ColumnName="訂單編號" />
+          <ScalarProperty Name="產品編號" ColumnName="產品編號" />
+          <ScalarProperty Name="單價" ColumnName="單價" />
+          <ScalarProperty Name="數量" ColumnName="數量" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="產品資料">
+      <EntityTypeMapping TypeName="Model.產品資料">
+        <MappingFragment StoreEntitySet="產品資料">
+          <ScalarProperty Name="產品編號" ColumnName="產品編號" />
+          <ScalarProperty Name="產品名稱" ColumnName="產品名稱" />
+          <ScalarProperty Name="類別編號" ColumnName="類別編號" />
+          <ScalarProperty Name="單位數量" ColumnName="單位數量" />
+          <ScalarProperty Name="單價" ColumnName="單價" />
+          <ScalarProperty Name="庫存量" ColumnName="庫存量" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="產品類別">
+      <EntityTypeMapping TypeName="Model.產品類別">
+        <MappingFragment StoreEntitySet="產品類別">
+          <ScalarProperty Name="類別編號" ColumnName="類別編號" />
+          <ScalarProperty Name="類別名稱" ColumnName="類別名稱" />
+          <ScalarProperty Name="說明" ColumnName="說明" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

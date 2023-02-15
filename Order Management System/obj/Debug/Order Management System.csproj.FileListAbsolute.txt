@@ -1,0 +1,101 @@
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Grocery store management.exe.config
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Grocery store management.exe
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Grocery store management.pdb
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Castle.Core.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\FakeItEasy.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\EnvDTE.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\stdole.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\Castle.Core.xml
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\FakeItEasy.xml
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Order Management System.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Menu.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Forms.FormCustomer.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Forms.FormOrders.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Forms.FormPrint.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Forms.FormProduct.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Forms.FormSearch.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.index.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Properties.Resources.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery_store_management.Forms.FormCustomer.zh-Hant.resources
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Order Management System.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Order Management System.csproj.CopyComplete
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery store management.exe
+C:\Users\user\Desktop\Order Management System\Order Management System\obj\Debug\Grocery store management.pdb

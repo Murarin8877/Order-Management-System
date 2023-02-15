@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="客戶">
+    <Key>
+      <PropertyRef Name="客戶編號" />
+    </Key>
+    <Property Name="客戶編號" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="公司名稱" Type="String" MaxLength="40" FixedLength="false" Unicode="true" />
+    <Property Name="地址" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="連絡電話" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="密碼" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="訂貨主檔" Relationship="Self.FK_訂貨主檔_客戶" FromRole="客戶" ToRole="訂貨主檔" />
+  </EntityType>
+  <EntityType Name="訂貨主檔">
+    <Key>
+      <PropertyRef Name="訂單編號" />
+    </Key>
+    <Property Name="訂單編號" Type="Int32" Nullable="false" />
+    <Property Name="客戶編號" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="訂單日期" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="商品總額" Type="Int32" />
+    <NavigationProperty Name="客戶" Relationship="Self.FK_訂貨主檔_客戶" FromRole="訂貨主檔" ToRole="客戶" />
+    <NavigationProperty Name="訂單明細" Relationship="Self.FK_訂單明細_訂貨主檔" FromRole="訂貨主檔" ToRole="訂單明細" />
+  </EntityType>
+  <EntityType Name="訂單明細">
+    <Key>
+      <PropertyRef Name="訂單編號" />
+      <PropertyRef Name="產品編號" />
+    </Key>
+    <Property Name="訂單編號" Type="Int32" Nullable="false" />
+    <Property Name="產品編號" Type="Int32" Nullable="false" />
+    <Property Name="單價" Type="Int32" />
+    <Property Name="數量" Type="Int16" />
+    <NavigationProperty Name="訂貨主檔" Relationship="Self.FK_訂單明細_訂貨主檔" FromRole="訂單明細" ToRole="訂貨主檔" />
+    <NavigationProperty Name="產品資料" Relationship="Self.FK_訂單明細_產品資料" FromRole="訂單明細" ToRole="產品資料" />
+  </EntityType>
+  <EntityType Name="產品資料">
+    <Key>
+      <PropertyRef Name="產品編號" />
+    </Key>
+    <Property Name="產品編號" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="產品名稱" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="類別編號" Type="Int32" />
+    <Property Name="單位數量" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="單價" Type="Int32" />
+    <Property Name="庫存量" Type="Int16" />
+    <NavigationProperty Name="訂單明細" Relationship="Self.FK_訂單明細_產品資料" FromRole="產品資料" ToRole="訂單明細" />
+  </EntityType>
+  <EntityType Name="產品類別">
+    <Key>
+      <PropertyRef Name="類別編號" />
+    </Key>
+    <Property Name="類別編號" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="類別名稱" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="說明" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_訂貨主檔_客戶">
+    <End Role="客戶" Type="Self.客戶" Multiplicity="0..1" />
+    <End Role="訂貨主檔" Type="Self.訂貨主檔" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="客戶">
+        <PropertyRef Name="客戶編號" />
+      </Principal>
+      <Dependent Role="訂貨主檔">
+        <PropertyRef Name="客戶編號" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_訂單明細_訂貨主檔">
+    <End Role="訂貨主檔" Type="Self.訂貨主檔" Multiplicity="1" />
+    <End Role="訂單明細" Type="Self.訂單明細" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="訂貨主檔">
+        <PropertyRef Name="訂單編號" />
+      </Principal>
+      <Dependent Role="訂單明細">
+        <PropertyRef Name="訂單編號" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_訂單明細_產品資料">
+    <End Role="產品資料" Type="Self.產品資料" Multiplicity="1" />
+    <End Role="訂單明細" Type="Self.訂單明細" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="產品資料">
+        <PropertyRef Name="產品編號" />
+      </Principal>
+      <Dependent Role="訂單明細">
+        <PropertyRef Name="產品編號" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="客戶" EntityType="Self.客戶" />
+    <EntitySet Name="訂貨主檔" EntityType="Self.訂貨主檔" />
+    <EntitySet Name="訂單明細" EntityType="Self.訂單明細" />
+    <EntitySet Name="產品資料" EntityType="Self.產品資料" />
+    <EntitySet Name="產品類別" EntityType="Self.產品類別" />
+    <AssociationSet Name="FK_訂貨主檔_客戶" Association="Self.FK_訂貨主檔_客戶">
+      <End Role="客戶" EntitySet="客戶" />
+      <End Role="訂貨主檔" EntitySet="訂貨主檔" />
+    </AssociationSet>
+    <AssociationSet Name="FK_訂單明細_訂貨主檔" Association="Self.FK_訂單明細_訂貨主檔">
+      <End Role="訂貨主檔" EntitySet="訂貨主檔" />
+      <End Role="訂單明細" EntitySet="訂單明細" />
+    </AssociationSet>
+    <AssociationSet Name="FK_訂單明細_產品資料" Association="Self.FK_訂單明細_產品資料">
+      <End Role="產品資料" EntitySet="產品資料" />
+      <End Role="訂單明細" EntitySet="訂單明細" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

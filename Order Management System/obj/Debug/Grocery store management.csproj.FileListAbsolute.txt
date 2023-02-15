@@ -1,0 +1,516 @@
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe.config
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Grocery store management.pdb
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.AssemblyReference.cache
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Properties.Resources.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.GenerateResource.cache
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CoreCompileInputs.cache
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery store management.exe
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery store management.pdb
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Form1.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.customer_order.resources
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Castle.Core.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Castle.Core.xml
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.xml
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CopyComplete
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Menu.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormOrders.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\RdlCompile.cache
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\RdlCompile.compiled
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\EnvDTE.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\stdole.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\Microsoft.MSXML.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormPrint.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormSearch.resources
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-Hant\Grocery store management.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.zh-Hant.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\zh-Hant\Grocery store management.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\EntityFramework.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.dll
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\EntityFramework.xml
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.xml
+F:\Grocery store management\Grocery store management\Grocery store management\bin\Debug\zh-Hant\EntityFramework.resources.dll
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormLogin.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.index.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store.Form1.resources
+F:\Grocery store management\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormProduct.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe.config
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Grocery store management.pdb
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Castle.Core.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\EnvDTE.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\stdole.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\Castle.Core.xml
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.xml
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.xml
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.AssemblyReference.cache
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Form1.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.customer_order.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Menu.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store.Form1.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormOrders.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormPrint.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormProduct.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormSearch.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.index.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Properties.Resources.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.zh-Hant.resources
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.GenerateResource.cache
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CoreCompileInputs.cache
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CopyComplete
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.exe
+C:\Users\littl\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.pdb
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe.config
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Grocery store management.pdb
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Castle.Core.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\EnvDTE.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\stdole.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Castle.Core.xml
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.xml
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.xml
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Form1.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.customer_order.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Menu.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store.Form1.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormOrders.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormPrint.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormProduct.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormSearch.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.index.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Properties.Resources.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.zh-Hant.resources
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CopyComplete
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.exe
+C:\Users\User\Downloads\Grocery store management\Grocery store management\obj\Debug\Grocery store management.pdb
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Database1.mdf
+C:\Users\User\Downloads\Grocery store management\Grocery store management\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe.config
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Grocery store management.exe
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Grocery store management.pdb
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Castle.Core.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\EnvDTE.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\stdole.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Castle.Core.xml
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\FakeItEasy.xml
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Menu.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store.Form1.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormOrders.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormPrint.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormProduct.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormSearch.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.index.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Properties.Resources.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.zh-Hant.resources
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.GenerateResource.cache
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery store management.csproj.CopyComplete
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery store management.exe
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\obj\Debug\Grocery store management.pdb
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\store.mdf
+C:\Users\User\Desktop\蔡孟霖資料庫\Grocery store management\Grocery store management\bin\Debug\store_log.ldf
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Grocery store management.exe.config
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Grocery store management.exe
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Grocery store management.pdb
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Castle.Core.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\FakeItEasy.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\EnvDTE.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\stdole.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\Castle.Core.xml
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\FakeItEasy.xml
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery store management.csprojAssemblyReference.cache
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Menu.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormOrders.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormPrint.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormProduct.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormSearch.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.index.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Properties.Resources.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery_store_management.Forms.FormCustomer.zh-Hant.resources
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery store management.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\RdlCompile.cache
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\RdlCompile.compiled
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery store management.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\zh-Hant\Grocery store management.resources.dll
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery store management.csproj.CopyComplete
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery store management.exe
+C:\Users\user\Downloads\Order Management System_FinalProject\Order Management System\Grocery store management\obj\Debug\Grocery store management.pdb
